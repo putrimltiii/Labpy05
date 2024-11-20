@@ -104,3 +104,27 @@ uts: 35%, uas: 35%)
 Secara keseluruhan, program ini berfungsi untuk mengelola data nilai mahasiswa, mulai dari menambahkan, menampilkan, mengubah, menghapus, dan mencari data mahasiswa. Program ini memanfaatkan dictionary untuk menyimpan data, dan beberapa fungsi untuk melakukan operasi-operasi tersebut.
 
 # Hasil Run(Output)
+
+# **Tambahkan Data**
+
+![Tambah Data](https://github.com/user-attachments/assets/28a555c1-201e-4db3-a3b4-35e3ac46eefe)
+
+# **Tampilkan Data**
+
+![Tampilkan Data](https://github.com/user-attachments/assets/9992318a-c7f3-47dc-aeea-5b35233a60b6)
+
+# **Ubah Data**
+
+![Ubah Data](https://github.com/user-attachments/assets/bf6b2c35-9d86-4b34-824c-50a49419f5a3)
+
+# **Hapus Data**
+
+![Hapus Data](https://github.com/user-attachments/assets/c64656c5-8e40-46d9-b35c-7fff4c04cee5)
+
+# **Cari Data**
+
+![Cari Data](https://github.com/user-attachments/assets/1c2bf9dc-1d3c-4cc7-a8d7-9d1154feecc8)
+
+# **Keluar**
+
+![Keluar](https://github.com/user-attachments/assets/39d71fe8-47a3-4657-8b66-6c18eac09053)
