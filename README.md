@@ -1,5 +1,5 @@
 # Labpy05
-# Latihan 1 & Tugas Praktikum
+# Tugas Praktikum
 # Nama: Putri Melati Ramadhaniati (312410194)
 
 Soal Tugas Praktikum
