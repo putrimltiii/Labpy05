@@ -131,3 +131,5 @@ Secara keseluruhan, program ini berfungsi untuk mengelola data nilai mahasiswa, 
 
 # FLOWCHART
 
+![flowchart 10](https://github.com/user-attachments/assets/2343fa09-b9d9-488d-8aaf-1f93bdba835d)
+
