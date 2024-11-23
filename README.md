@@ -127,4 +127,7 @@ Secara keseluruhan, program ini berfungsi untuk mengelola data nilai mahasiswa, 
 
 # **Keluar**
 
-![Keluar](https://github.com/user-attachments/assets/39d71fe8-47a3-4657-8b66-6c18eac09053)
+![Keluar](https://github.com/user-attachments/assets/39d71fe8-47a3-4657-8b66-6c18eac09053
+
+# FLOWCHART
+
